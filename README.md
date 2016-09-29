@@ -1,3 +1,4 @@
 # CalculatorDemo
-**This is an easy CalculatorDemo by Android Studio.**
-----------------------2016.9.29 by xh----------------
+**这是学习了慕课网上安卓工程师第一课之后的课堂作业:
+仅能进行单次运算的简易计算器，后期会相继丰富其他的功能。**
+2016/9/29 by xh
